@@ -50,6 +50,13 @@ while(!feof(f1))
 	#endif
 
 }
+
+
+
+
+
+
+/*Hihihi*/
 //fseek( f1, 0, SEEK_SET );
 rewind (f1);
 printf("\nSo ky tu la %d\n",n);
